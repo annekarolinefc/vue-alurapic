@@ -1,5 +1,13 @@
 # vue-alurapic
 
+## Interpolação
+utilizando {{}}
+
+## Data Binding
+Interpolação é um tipo de data binding
+
+## Diretivas
+usando v-for
 ## Project setup
 ```
 npm install
